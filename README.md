@@ -1,5 +1,5 @@
 # [모던 JavaScript 튜토리얼] 공부
-- [ModernJavaScriptTutorial 학습용 Notion 기록 URL](https://fir-conga-fc3.notion.site/JavaScript-52790d8f9de64cdb8b83959a856e08a0)
+- [ModernJavaScriptTutorial 학습용 Notion 기록 URL](https://irish1998.notion.site/JavaScript-52790d8f9de64cdb8b83959a856e08a0?pvs=74)
  -----
 > 회사에서 웹 프론트 개발을 담당하게 되면서 HTML / CSS / JS의 공부 필요성을 느껴, 이 중 JS를 초점으로 공부했던 것을 기록 (특히, [모던 JavaScript 튜토리얼](https://ko.javascript.info/))
 
